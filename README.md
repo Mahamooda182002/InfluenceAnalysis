@@ -45,10 +45,11 @@ To run this project, you'll need:
 - TextBlob library for sentiment analysis
 - NetworkX library for network analysis
 - Matplotlib library for data visualization
- Usage
+- Usage
 Obtain your Twitter API credentials (consumer key, consumer secret, access token, access token secret) from the Twitter Developer Platform.
 Open the config.py file and replace the placeholders with your actual API credentials and the Twitter handle you want to analyze.
 Run the main script to collect and analyze the tweets:
-Results and Visualization
+                                                                                                                                                    
+    Results and Visualization
 The project generates insights and visualizations based on the analysis, including sentiment distribution graphs, influence score comparisons, and network metrics visualization. These results help businesses identify influential users and make informed decisions regarding engagement strategies. 
 
